@@ -1,0 +1,17 @@
+name: flame_game_template
+description: A template for flame games
+version: 0.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+  flutter: ^3.19.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.16.0
+
+flutter:
+  assets:
+    - assets/images/
